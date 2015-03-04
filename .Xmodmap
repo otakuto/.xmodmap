@@ -1,0 +1,15 @@
+remove lock = Caps_Lock
+remove mod4 = Super_L
+keycode 66 = Control_L
+keycode 101 = Alt_R
+keycode 133 = Mode_switch
+add control = Control_L
+add mod5 = Mode_switch
+
+keycode 43 = h H Left BackSpace
+keycode 44 = j J Down Return
+keycode 45 = k K Up Up
+keycode 46 = l L Right Delete
+keycode 58 = m M Return Return
+keycode 38 = a A Home Home
+keycode 26 = e E End End
