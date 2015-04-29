@@ -6,6 +6,9 @@ keycode 133 = Mode_switch
 add control = Control_L
 add mod5 = Mode_switch
 
+keycode 108 = Alt_R Alt_R Henkan_Mode Henkan_Mode
+keycode 64 = Alt_L Alt_L Muhenkan Muhenkan
+
 keycode 43 = h H Left BackSpace
 keycode 44 = j J Down Return
 keycode 45 = k K Up Up
