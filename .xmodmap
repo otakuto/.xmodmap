@@ -16,3 +16,4 @@ keycode 46 = l L Right Delete
 keycode 58 = m M Return Return
 keycode 38 = a A Home Home
 keycode 26 = e E End End
+keycode 32 = o O BackSpace BackSpace
