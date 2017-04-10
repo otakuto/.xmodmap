@@ -6,6 +6,14 @@ keycode 133 = Mode_switch
 add control = Control_L
 add mod5 = Mode_switch
 
+!mouse
+keycode 111 = Up Up KP_8 KP_8
+keycode 113 = Left Left KP_4 KP_4
+keycode 114 = Right Right KP_6 KP_6
+keycode 116 = Down Down KP_2 KP_2
+keycode 9 = Escape Escape Pointer_EnableKeys Pointer_EnableKeys
+keycode 104 = KP_Enter KP_Enter KP_5 KP_5
+
 keycode 108 = Alt_R Alt_R Henkan_Mode Henkan_Mode
 keycode 64 = Alt_L Alt_L Muhenkan Muhenkan
 
